@@ -35,6 +35,7 @@ public class Prog1 {
 		smarathon = (int)(marathon%60);
 		
 		//10k
+		// new stuff
 		tenk = pace*6.21371;
 		h10k = (int)(tenk/3600);
 		m10k = (int)(tenk%3600)/60;
